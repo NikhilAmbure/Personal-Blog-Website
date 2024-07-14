@@ -53,15 +53,3 @@ This is a personal blog website built using Django, HTML, CSS, and Python. It al
 ## Usage
 
 - Use the admin panel to add, edit, or delete blog posts and categories.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README further as needed.
